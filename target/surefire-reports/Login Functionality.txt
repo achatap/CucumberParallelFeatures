@@ -1,26 +1,26 @@
 -------------------------------------------------------------------------------
 Test set: Login Functionality
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 9, Skipped: 0, Time elapsed: 68.58 s <<< FAILURE! - in Login Functionality
-Login Successful(Login Functionality)  Time elapsed: 9.12 s  <<< ERROR!
+Tests run: 9, Failures: 0, Errors: 9, Skipped: 0, Time elapsed: 64.764 s <<< FAILURE! - in Login Functionality
+Login Successful(Login Functionality)  Time elapsed: 9.62 s  <<< ERROR!
 io.cucumber.core.exception.CucumberException: 
 Step [I enter valid credentials] is defined with 1 parameters at 'com.tau.steps.Steps.i_enter_valid_credentials(DataTable) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/'.
 However, the gherkin step has 0 arguments.
 Step text: I enter valid credentials
 
-Login Successful(Login Functionality)  Time elapsed: 9 s  <<< ERROR!
+Login Successful(Login Functionality)  Time elapsed: 9.756 s  <<< ERROR!
 io.cucumber.core.exception.CucumberException: 
 Step [I enter valid credentials] is defined with 1 parameters at 'com.tau.steps.Steps.i_enter_valid_credentials(DataTable) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/'.
 However, the gherkin step has 0 arguments.
 Step text: I enter valid credentials
 
-Login Successful(Login Functionality)  Time elapsed: 9.2 s  <<< ERROR!
+Login Successful(Login Functionality)  Time elapsed: 9.771 s  <<< ERROR!
 io.cucumber.core.exception.CucumberException: 
 Step [I enter valid credentials] is defined with 1 parameters at 'com.tau.steps.Steps.i_enter_valid_credentials(DataTable) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/'.
 However, the gherkin step has 0 arguments.
 Step text: I enter valid credentials
 
-Login Successful(Login Functionality)  Time elapsed: 29.647 s  <<< ERROR!
+Login Successful(Login Functionality)  Time elapsed: 28.1 s  <<< ERROR!
 org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.className: smallText (tried for 20 second(s) with 500 milliseconds interval)
 Caused by: org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"css selector","selector":".smallText"}
@@ -29,11 +29,11 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-M9NR2LIP', ip: '172.31.112.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50993}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c522a0cfecaded05003f6a7bffeaba9e
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e45c04da87168c5213a832ff5eb68614
 *** Element info: {Using=class name, value=smallText}
 
-Login Successful(Login Functionality)  Time elapsed: 29.98 s  <<< ERROR!
+Login Successful(Login Functionality)  Time elapsed: 28.212 s  <<< ERROR!
 org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.className: smallText (tried for 20 second(s) with 500 milliseconds interval)
 Caused by: org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"css selector","selector":".smallText"}
@@ -42,11 +42,11 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-M9NR2LIP', ip: '172.31.112.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50995}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: ab9d414d99c39cce11fefb511b1ea065
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52766}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 24f683fe0ef1ba1db117f32a6558ae77
 *** Element info: {Using=class name, value=smallText}
 
-Login Successful(Login Functionality)  Time elapsed: 30.055 s  <<< ERROR!
+Login Successful(Login Functionality)  Time elapsed: 30.272 s  <<< ERROR!
 org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.className: smallText (tried for 20 second(s) with 500 milliseconds interval)
 Caused by: org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"css selector","selector":".smallText"}
@@ -55,46 +55,40 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-M9NR2LIP', ip: '172.31.112.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51007}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 22d3064d06008592527feda7e4f80e26
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52764}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 218bbe9db50341b26ac8649c91c3634a
 *** Element info: {Using=class name, value=smallText}
 
-Login Successful(Login Functionality)  Time elapsed: 27.217 s  <<< ERROR!
-org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.className: smallText (tried for 20 second(s) with 500 milliseconds interval)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"css selector","selector":".smallText"}
+Login Successful(Login Functionality)  Time elapsed: 19.329 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
   (Session info: chrome=90.0.4430.93)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-M9NR2LIP', ip: '172.31.112.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51049}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 1e4e7840ff725c538b02d71630218317
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52814}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7c20e5add2b9f1baca7e7ba9b351e74
 *** Element info: {Using=class name, value=smallText}
 
-Login Successful(Login Functionality)  Time elapsed: 29.48 s  <<< ERROR!
-org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.className: smallText (tried for 20 second(s) with 500 milliseconds interval)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"css selector","selector":".smallText"}
+Login Successful(Login Functionality)  Time elapsed: 26.796 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
   (Session info: chrome=90.0.4430.93)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-M9NR2LIP', ip: '172.31.112.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 7ddf622e566342346721e305b8d2fabe
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52818}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e47ebc0270e345be14bc31e972d291a
 *** Element info: {Using=class name, value=smallText}
 
-Login Successful(Login Functionality)  Time elapsed: 28.579 s  <<< ERROR!
-org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.className: smallText (tried for 20 second(s) with 500 milliseconds interval)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"css selector","selector":".smallText"}
+Login Successful(Login Functionality)  Time elapsed: 23.705 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
   (Session info: chrome=90.0.4430.93)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-M9NR2LIP', ip: '172.31.112.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 788860f0d502c31ed268535d2775c459
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\achat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e909eb794967f2cafe32e3bbb3a6e57
 *** Element info: {Using=class name, value=smallText}
 

@@ -1,0 +1,4 @@
+com\tau\pages\GoogleComPage.class
+com\tau\pages\BasePage.class
+com\tau\steps\GooglePageStep.class
+com\tau\runners\RunCucumber.class
