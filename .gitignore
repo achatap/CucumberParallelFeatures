@@ -57,3 +57,4 @@
 /.idea/modules.xml
 /tau-cucumber-course.iml
 /.idea/vcs.xml
+/target/test-classes/Login3.feature
