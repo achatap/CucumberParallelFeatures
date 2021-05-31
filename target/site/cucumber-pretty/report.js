@@ -17,7 +17,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -27,7 +27,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -37,7 +37,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -47,7 +47,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -74,7 +74,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -84,7 +84,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -94,7 +94,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -104,7 +104,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -131,7 +131,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -141,7 +141,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -151,7 +151,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"
@@ -161,7 +161,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+  "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
 });
 formatter.result({
   "status": "passed"

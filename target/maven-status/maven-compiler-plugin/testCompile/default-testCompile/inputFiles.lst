@@ -1,3 +1,5 @@
-C:\Users\achat\IdeaProjects\tau-cucumber-course\src\test\java\com\tau\steps\Steps.java
-C:\Users\achat\IdeaProjects\tau-cucumber-course\src\test\java\com\tau\runners\RunCucumberTests.java
-C:\Users\achat\IdeaProjects\tau-cucumber-course\src\test\java\com\tau\base\BaseUtil.java
+C:\Users\achat\IdeaProjects\CucumberParallelFeatures\src\test\java\com\tau\pages\BasePage.java
+C:\Users\achat\IdeaProjects\CucumberParallelFeatures\src\test\java\com\tau\pages\GoogleComPage.java
+C:\Users\achat\IdeaProjects\CucumberParallelFeatures\src\test\java\com\tau\base\BaseUtil.java
+C:\Users\achat\IdeaProjects\CucumberParallelFeatures\src\test\java\com\tau\runners\RunCucumber.java
+C:\Users\achat\IdeaProjects\CucumberParallelFeatures\src\test\java\com\tau\steps\GooglePageStep.java
