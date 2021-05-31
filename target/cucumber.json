@@ -3,15 +3,15 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-05-04T04:54:42.813Z",
+        "start_timestamp": "2021-05-31T03:58:02.477Z",
         "before": [
           {
             "result": {
-              "duration": 6335000000,
+              "duration": 2518000000,
               "status": "passed"
             },
             "match": {
-              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             }
           }
         ],
@@ -22,11 +22,11 @@
         "after": [
           {
             "result": {
-              "duration": 600000000,
+              "duration": 42000000,
               "status": "passed"
             },
             "match": {
-              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             }
           }
         ],
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2198000000,
+              "duration": 3958000000,
               "status": "passed"
             },
             "line": 4,
@@ -47,13 +47,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 7190000000,
+              "duration": 4124000000,
               "status": "passed"
             },
             "line": 5,
@@ -65,13 +65,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4331000000,
+              "duration": 1214000000,
               "status": "passed"
             },
             "line": 6,
@@ -83,13 +83,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4527000000,
+              "duration": 2274000000,
               "status": "passed"
             },
             "line": 7,
@@ -101,7 +101,7 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           }
@@ -119,15 +119,15 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-05-04T04:54:42.813Z",
+        "start_timestamp": "2021-05-31T03:58:02.477Z",
         "before": [
           {
             "result": {
-              "duration": 6325000000,
+              "duration": 2518000000,
               "status": "passed"
             },
             "match": {
-              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             }
           }
         ],
@@ -138,11 +138,11 @@
         "after": [
           {
             "result": {
-              "duration": 370000000,
+              "duration": 42000000,
               "status": "passed"
             },
             "match": {
-              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             }
           }
         ],
@@ -151,7 +151,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2288000000,
+              "duration": 3934000000,
               "status": "passed"
             },
             "line": 4,
@@ -163,13 +163,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 7655000000,
+              "duration": 3223000000,
               "status": "passed"
             },
             "line": 5,
@@ -181,13 +181,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4817000000,
+              "duration": 1673000000,
               "status": "passed"
             },
             "line": 6,
@@ -199,13 +199,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 3851000000,
+              "duration": 2618000000,
               "status": "passed"
             },
             "line": 7,
@@ -217,7 +217,7 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           }
@@ -235,15 +235,15 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-05-04T04:54:42.813Z",
+        "start_timestamp": "2021-05-31T03:58:02.477Z",
         "before": [
           {
             "result": {
-              "duration": 6323000000,
+              "duration": 2518000000,
               "status": "passed"
             },
             "match": {
-              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             }
           }
         ],
@@ -254,11 +254,11 @@
         "after": [
           {
             "result": {
-              "duration": 163000000,
+              "duration": 46000000,
               "status": "passed"
             },
             "match": {
-              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             }
           }
         ],
@@ -267,7 +267,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2274000000,
+              "duration": 3968000000,
               "status": "passed"
             },
             "line": 4,
@@ -279,13 +279,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 8747000000,
+              "duration": 3563000000,
               "status": "passed"
             },
             "line": 5,
@@ -297,13 +297,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4213000000,
+              "duration": 1306000000,
               "status": "passed"
             },
             "line": 6,
@@ -315,13 +315,13 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 4313000000,
+              "duration": 1986000000,
               "status": "passed"
             },
             "line": 7,
@@ -333,7 +333,7 @@
                   "offset": 9
                 }
               ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/tau-cucumber-course/target/test-classes/"
+              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
             },
             "keyword": "And "
           }

@@ -3,6 +3,7 @@ package com.tau.pages;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 public class BasePage {
 
@@ -14,12 +15,17 @@ public String browser= "chrome";
     public WebDriver init(){
         if(browser.contains("chrome")){
             WebDriverManager.chromedriver().setup();
-            driver= new ChromeDriver();
+            ChromeOptions options= new ChromeOptions();
+            options.addArguments("--headless");
+            driver= new ChromeDriver(options);
+
 
         }
         else if(browser.contains("firefox")){
             WebDriverManager.firefoxdriver().setup();
-            driver= new ChromeDriver();
+            ChromeOptions options= new ChromeOptions();
+            options.addArguments("--headless");
+            driver= new ChromeDriver(options);
 
         }
         return driver;
