@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-05-31T04:57:18.176Z",
+        "start_timestamp": "2021-06-01T17:59:09.790Z",
         "before": [
           {
             "result": {
-              "duration": 2691000000,
+              "duration": 3687000000,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 30000000,
+              "duration": 258000000,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3826000000,
+              "duration": 1653000000,
               "status": "passed"
             },
             "line": 4,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 3954000000,
+              "duration": 2858000000,
               "status": "passed"
             },
             "line": 5,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 1453000000,
+              "duration": 2191000000,
               "status": "passed"
             },
             "line": 6,
@@ -89,7 +89,7 @@
           },
           {
             "result": {
-              "duration": 2696000000,
+              "duration": 2947000000,
               "status": "passed"
             },
             "line": 7,
@@ -113,238 +113,6 @@
     "id": "this-is-simple-google-page-search",
     "keyword": "Feature",
     "uri": "file:src/test/resources/google.feature",
-    "tags": []
-  },
-  {
-    "line": 1,
-    "elements": [
-      {
-        "start_timestamp": "2021-05-31T04:57:18.176Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2691000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            }
-          }
-        ],
-        "line": 3,
-        "name": "google page search",
-        "description": "",
-        "id": "this-is-simple-google-page-search;google-page-search",
-        "after": [
-          {
-            "result": {
-              "duration": 35000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 3843000000,
-              "status": "passed"
-            },
-            "line": 4,
-            "name": "open url \"https://facebook.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://facebook.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 3749000000,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "open url \"https://youtube.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://youtube.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 1686000000,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "open url \"https://gmail.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://gmail.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2526000000,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "open url \"https://programesecure.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://programesecure.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "And "
-          }
-        ]
-      }
-    ],
-    "name": "This is simple google page search",
-    "description": "",
-    "id": "this-is-simple-google-page-search",
-    "keyword": "Feature",
-    "uri": "file:src/test/resources/google1.feature",
-    "tags": []
-  },
-  {
-    "line": 1,
-    "elements": [
-      {
-        "start_timestamp": "2021-05-31T04:57:18.176Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2691000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.tau.steps.GooglePageStep.setup() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            }
-          }
-        ],
-        "line": 3,
-        "name": "google page search",
-        "description": "",
-        "id": "this-is-simple-google-page-search;google-page-search",
-        "after": [
-          {
-            "result": {
-              "duration": 97000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.tau.steps.GooglePageStep.closeDriver() in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 3840000000,
-              "status": "passed"
-            },
-            "line": 4,
-            "name": "open url \"https://facebook.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://facebook.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 3161000000,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "open url \"https://youtube.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://youtube.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 1764000000,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "open url \"https://gmail.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://gmail.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2381000000,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "open url \"https://programesecure.com\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"https://programesecure.com\"",
-                  "offset": 9
-                }
-              ],
-              "location": "com.tau.steps.GooglePageStep.openUrl(String) in file:/C:/Users/achat/IdeaProjects/CucumberParallelFeatures/target/test-classes/"
-            },
-            "keyword": "And "
-          }
-        ]
-      }
-    ],
-    "name": "This is simple google page search",
-    "description": "",
-    "id": "this-is-simple-google-page-search",
-    "keyword": "Feature",
-    "uri": "file:src/test/resources/google2.feature",
     "tags": []
   }
 ]
