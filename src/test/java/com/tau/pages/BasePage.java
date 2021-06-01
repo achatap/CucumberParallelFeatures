@@ -40,24 +40,27 @@ public String browser= "chrome";
 //				e.printStackTrace();
 //			}
             WebDriverManager.chromedriver().setup();
-            DesiredCapabilities dc = new DesiredCapabilities();
-            dc.setCapability(CapabilityType.BROWSER_NAME, BrowserType.CHROME);//or dc = DesiredCapabilities.chrome();
-            ChromeOptions option = new ChromeOptions();
-			option.addArguments("--no-sandbox");
-			option.addArguments("--disable-dev-shm-usage");
-			option.addArguments("--disable-gpu");
-//			option.addArguments("--headless");
-			option.addArguments("--disable-notifications");
-//			option.addArguments("use-fake-ui-for-media-stream");
-			dc.setCapability(ChromeOptions.CAPABILITY, option);
+//            DesiredCapabilities dc = new DesiredCapabilities();
+//            dc.setCapability(CapabilityType.BROWSER_NAME, BrowserType.CHROME);//or dc = DesiredCapabilities.chrome();
+//            ChromeOptions option = new ChromeOptions();
+//			option.addArguments("--no-sandbox");
+//			option.addArguments("--disable-dev-shm-usage");
+//			option.addArguments("--disable-gpu");
+////			option.addArguments("--headless");
+//			option.addArguments("--disable-notifications");
+////			option.addArguments("use-fake-ui-for-media-stream");
+//			dc.setCapability(ChromeOptions.CAPABILITY, option);
+//
+//
+//            			try {
+//				driver= new RemoteWebDriver(new URL("http://134.122.112.156:4444/wd/hub"), dc);
+//			} catch (MalformedURLException e) {
+//				e.printStackTrace();
+//			}
 
-//            driver= new FirefoxDriver();
-            			try {
-				driver= new RemoteWebDriver(new URL("http://134.122.112.156:4444/wd/hub"), dc);
-			} catch (MalformedURLException e) {
-				e.printStackTrace();
-			}
-
+            ChromeOptions options= new ChromeOptions();
+            options.addArguments("--headless");
+            driver= new ChromeDriver(options);
 
         }
         else if(browser.contains("firefox")){
