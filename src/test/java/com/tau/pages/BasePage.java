@@ -53,7 +53,7 @@ public String browser= "chrome";
 
 //            driver= new FirefoxDriver();
             			try {
-				driver= new RemoteWebDriver(new URL("http://134.122.112.156/:4444/wd/hub"), dc);
+				driver= new RemoteWebDriver(new URL("http://172.17.0.3:4444/wd/hub"), dc);
 			} catch (MalformedURLException e) {
 				e.printStackTrace();
 			}
