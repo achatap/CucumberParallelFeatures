@@ -58,9 +58,14 @@ public String browser= "chrome";
 //				e.printStackTrace();
 //			}
 
-            ChromeOptions options= new ChromeOptions();
-            options.addArguments("--headless");
-            driver= new ChromeDriver(options);
+            ChromeOptions option= new ChromeOptions();
+            option.addArguments("--no-sandbox");
+			option.addArguments("--disable-dev-shm-usage");
+			option.addArguments("--disable-gpu");
+			option.addArguments("--headless");
+			option.addArguments("--disable-notifications");
+			option.addArguments("use-fake-ui-for-media-stream");
+            driver= new ChromeDriver(option);
 
         }
         else if(browser.contains("firefox")){
