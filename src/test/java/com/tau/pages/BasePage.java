@@ -62,7 +62,7 @@ public String browser= "chrome";
             option.addArguments("--no-sandbox");
 			option.addArguments("--disable-dev-shm-usage");
 			option.addArguments("--disable-gpu");
-			option.addArguments("--headless");
+//			option.addArguments("--headless");
 			option.addArguments("--disable-notifications");
 			option.addArguments("use-fake-ui-for-media-stream");
             driver= new ChromeDriver(option);
